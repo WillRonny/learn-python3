@@ -1,0 +1,1 @@
+print('Hi,I\'m %s, My score is %d' %('Ronny',59))
